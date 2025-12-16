@@ -1,2 +1,4 @@
 *.npz
 data/
+dia_env/
+__pycache__/
