@@ -1,33 +1,20 @@
 {
   "main": {
-    "id": "120f6cefbd9561e1",
+    "id": "aeea3fbe05844416",
     "type": "split",
     "children": [
       {
-        "id": "3e71f2f87ecb7fa4",
+        "id": "b1bef024d43bc353",
         "type": "tabs",
+        "dimension": 33.739255014326645,
         "children": [
           {
-            "id": "f19d04b23a0c6ee7",
+            "id": "ef4eb917af2564b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/备考建议.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "备考建议"
-            }
-          },
-          {
-            "id": "2ec02c9306dbc0b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/备考建议.md",
+                "file": "备考建议.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,22 +22,40 @@
               "title": "备考建议"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "36fff6f7dfe884ff",
+        "type": "tabs",
+        "dimension": 66.26074498567334,
+        "children": [
+          {
+            "id": "6c322806269c9e51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "DIA复习扩充版.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DIA复习扩充版"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "70b53ca9115afbf0",
+    "id": "af7c9da91b7b301e",
     "type": "split",
     "children": [
       {
-        "id": "050acf39b8a44fa8",
+        "id": "41d989d04c33948f",
         "type": "tabs",
         "children": [
           {
-            "id": "738395b5b6d3d809",
+            "id": "bb3ae48e55d0a4a0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +68,7 @@
             }
           },
           {
-            "id": "bf75910588679abc",
+            "id": "c387a437f90de70a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +85,7 @@
             }
           },
           {
-            "id": "9e403688205586b0",
+            "id": "29817e9f3eb047b4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,23 +98,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "ea1a162794d318e6",
+    "id": "f4b32b1d3597552f",
     "type": "split",
     "children": [
       {
-        "id": "e7e6a972dfd9d19a",
+        "id": "41925f5790acef4b",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b5c695cd552dc1",
+            "id": "a6fdcfbffe613ca0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/DIA复习扩充版.pdf",
+                "file": "DIA复习扩充版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +129,12 @@
             }
           },
           {
-            "id": "7b28d05ddf9fcb22",
+            "id": "b2a281038d0a2231",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/DIA复习扩充版.pdf",
+                "file": "DIA复习扩充版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +143,7 @@
             }
           },
           {
-            "id": "580cb489f75cc588",
+            "id": "550b2668ba712bb2",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,7 +158,7 @@
             }
           },
           {
-            "id": "1f1280823bc61358",
+            "id": "ec48b40dcc7c0d9e",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -166,12 +172,12 @@
             }
           },
           {
-            "id": "8696c78cd2fd1714",
+            "id": "51b09b62f444ec0c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/DIA复习扩充版.pdf",
+                "file": "DIA复习扩充版.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -198,12 +204,16 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "2ec02c9306dbc0b5",
+  "active": "6c322806269c9e51",
   "lastOpenFiles": [
-    "Notes/历年题.md",
-    "Notes/DIA复习扩充版.pdf",
-    "Notes/备考建议.md",
-    "Notes/DIA复习扩充版.pdf.baiduyun.p.downloading",
-    "Notes/【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf"
+    "备考建议.md",
+    "Pasted image 20260111195119.png",
+    "Pasted image 20260111194335.png",
+    "Pasted image 20260111194201.png",
+    "Pasted image 20260111194120.png",
+    "DIA复习扩充版.pdf",
+    "历年题.md",
+    "Pasted image 20260111193256.png",
+    "【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf"
   ]
 }
