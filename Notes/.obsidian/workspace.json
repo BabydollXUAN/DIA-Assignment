@@ -6,31 +6,44 @@
       {
         "id": "b1bef024d43bc353",
         "type": "tabs",
-        "dimension": 33.739255014326645,
+        "dimension": 38.39541547277937,
         "children": [
           {
-            "id": "ef4eb917af2564b7",
+            "id": "6c322806269c9e51",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试"
+            }
+          },
+          {
+            "id": "61cab4fc1bd9f2fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "备考建议.md",
+                "file": "26年复习重点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "备考建议"
+              "title": "26年复习重点"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "36fff6f7dfe884ff",
+        "id": "79433e5bc73ee446",
         "type": "tabs",
-        "dimension": 66.26074498567334,
+        "dimension": 61.60458452722063,
         "children": [
           {
-            "id": "6c322806269c9e51",
+            "id": "e9290d6c451f7473",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -39,6 +52,18 @@
               },
               "icon": "lucide-file-text",
               "title": "DIA复习扩充版"
+            }
+          },
+          {
+            "id": "b0b656256d2c1616",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "2025秋DIA PPT/DIA课件-第1章.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DIA课件-第1章"
             }
           }
         ]
@@ -114,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "备考建议.md",
+                "file": "DIA复习扩充版.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +149,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "备考建议 的反向链接列表"
+              "title": "DIA复习扩充版 的反向链接列表"
             }
           },
           {
@@ -133,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "备考建议.md",
+                "file": "DIA复习扩充版.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "备考建议 的出链列表"
+              "title": "DIA复习扩充版 的出链列表"
             }
           },
           {
@@ -176,13 +201,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "备考建议.md",
+                "file": "DIA复习扩充版.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "备考建议 的大纲"
+              "title": "DIA复习扩充版 的大纲"
             }
           }
         ]
@@ -203,27 +228,27 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "bb3ae48e55d0a4a0",
+  "active": "61cab4fc1bd9f2fb",
   "lastOpenFiles": [
+    "【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf",
+    "备考建议.md",
+    "26年复习重点.md",
+    "复习重点-2026-01.pdf",
+    "DIA复习扩充版.pdf",
+    "历年题.md",
+    "2025秋DIA PPT/DIA课件-第1章.pdf",
+    "2025秋DIA PPT/DIA课件-第3章.pdf",
     "2025秋DIA PPT/DIA课件-第13章.pdf",
     "2025秋DIA PPT/DIA课件-第12章.pdf",
     "2025秋DIA PPT/DIA课件-第11章.pdf",
     "2025秋DIA PPT/DIA课件-第7章.pdf",
     "2025秋DIA PPT/DIA课件-第6章.pdf",
-    "2025秋DIA PPT/DIA课件-第5章.pdf",
-    "2025秋DIA PPT/DIA课件-第4章.pdf",
-    "2025秋DIA PPT/DIA课件-第3章.pdf",
-    "2025秋DIA PPT/DIA课件-第2章.pdf",
-    "2025秋DIA PPT/DIA课件-第1章.pdf",
-    "2025秋DIA PPT",
     "Pasted image 20260111203720.png",
     "Pasted image 20260111203703.png",
-    "备考建议.md",
     "Pasted image 20260111195119.png",
     "Pasted image 20260111194335.png",
     "Pasted image 20260111194201.png",
     "Pasted image 20260111194120.png",
-    "历年题.md",
     "Pasted image 20260111193256.png"
   ]
 }
