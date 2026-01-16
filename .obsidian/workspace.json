@@ -4,35 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c66d0a72ef5bcc65",
+        "id": "86e827447507c4e3",
         "type": "tabs",
+        "dimension": 74.35530085959886,
         "children": [
           {
-            "id": "8d2739c8dbf22b47",
+            "id": "c225df5acff24543",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notes/复习重点-2026-01.pdf"
+                "file": "Notes/DIA复习扩充版.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "复习重点-2026-01"
-            }
-          },
-          {
-            "id": "6cfde05de7f36ac8",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Notes/2025秋DIA PPT/DIA课件-第1章.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DIA课件-第1章"
+              "title": "DIA复习扩充版"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1d6523edd839799e",
+        "type": "tabs",
+        "dimension": 25.644699140401144,
+        "children": [
+          {
+            "id": "414e8962c5d02a22",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +96,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ea1a162794d318e6",
@@ -194,21 +202,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6cfde05de7f36ac8",
+  "active": "c225df5acff24543",
   "lastOpenFiles": [
-    "Notes/26年复习重点.md",
-    "Notes/复习重点-2026-01.pdf",
     "Notes/【课程总结】2023中科大-数字图像分析-期末考试试卷回忆版及往年考题汇总_数字图像处理期末考试.pdf",
-    "Notes/备考建议.md",
-    "Notes/2025秋DIA PPT/DIA课件-第11章.pdf",
     "Notes/DIA复习扩充版.pdf",
-    "Notes/历年题.md",
-    "Notes/未命名.md",
-    "Notes/2025秋DIA PPT/DIA课件-第3章.pdf",
-    "Notes/2025秋DIA PPT/DIA课件-第1章.pdf",
     "Notes/2025秋DIA PPT/DIA课件-第4.1章.pdf",
-    "Notes/2025秋DIA PPT/DIA课件-第4.2章.pdf",
-    "Notes/2025秋DIA PPT/DIA课件-第4.4章.pdf",
-    "Notes/2025秋DIA PPT/DIA课件-第4.3章.pdf"
+    "Notes/复习重点-2026-01.pdf",
+    "Notes/26年复习重点.md",
+    "Notes/备考建议.md",
+    "Notes/~$重点-2026-01.docx",
+    "Notes/未命名.md",
+    "Notes/历年题.md",
+    "Notes/复习重点-2026-01~391DD.tmp",
+    "Notes/复习重点-2026-01~2EB0E.tmp",
+    "Notes/复习重点-2026-01~215BC.tmp",
+    "Notes/复习重点-2026-01.docx",
+    "Notes/2025秋DIA PPT/DIA课件-第1章.pdf",
+    "Notes/2025秋DIA PPT/DIA课件-第11章.pdf"
   ]
 }
