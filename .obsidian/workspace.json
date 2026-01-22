@@ -34,8 +34,7 @@
               "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "1d6523edd839799e",
@@ -48,10 +47,10 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Notes/2025秋DIA PPT/DIA课件-第11章.pdf"
+                "file": "Notes/2025秋DIA PPT/DIA课件-第3章.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DIA课件-第11章"
+              "title": "DIA课件-第3章"
             }
           },
           {
@@ -77,9 +76,21 @@
               "icon": "lucide-file-text",
               "title": "DIA复习扩充版"
             }
+          },
+          {
+            "id": "46dc6d8be26d680e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Notes/2025秋DIA PPT/DIA课件-第4章.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DIA课件-第4章"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -136,8 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ea1a162794d318e6",
@@ -242,20 +252,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e099f4063bdbf235",
+  "active": "46dc6d8be26d680e",
   "lastOpenFiles": [
-    "Notes/2025秋DIA PPT/DIA课件-第13章.pdf",
-    "Notes/算子简介.md",
-    "Notes/2025秋DIA PPT/DIA课件-第11章.pdf",
+    "Notes/2025秋DIA PPT/DIA课件-第3章.pdf",
+    "Notes/2025秋DIA PPT/DIA课件-第4章.pdf",
     "Notes/DIA复习扩充版.pdf",
-    "Notes/~$重点-2026-01.docx",
+    "Notes/2025秋DIA PPT/DIA课件-第4.4章.pdf",
     "Notes/2025秋DIA PPT/DIA课件-第6章.pdf",
     "Notes/复习重点-2026-01.pdf",
+    "Notes/2025秋DIA PPT/DIA课件-第11章.pdf",
+    "Notes/2025秋DIA PPT/DIA课件-第13章.pdf",
     "Notes/未命名.md",
+    "Notes/算子简介.md",
+    "Notes/~$重点-2026-01.docx",
     "Notes/复习重点-2026-01~F4533.tmp",
     "Notes/复习重点-2026-01~C36A9.tmp",
-    "Notes/2025秋DIA PPT/DIA课件-第12章.pdf",
-    "Notes/复习重点-2026-01~7CC5A.tmp",
     "Notes/26年复习重点.md",
     "Notes/备考建议.md",
     "Notes/历年题.md"
